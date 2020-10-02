@@ -1,7 +1,1025 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="2a0f856b-6fc6-400f-be29-ac9cf23bfa32" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="2a0f856b-6fc6-400f-be29-ac9cf23bfa32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Libraries/dat.gui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/grafica.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/grafica.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.clickable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.experience.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.experience.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.func.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.gui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.all-contributorsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.codecov.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/ISSUE_TEMPLATE/existing-feature-enhancement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/ISSUE_TEMPLATE/feature-request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/ISSUE_TEMPLATE/found-a-bug.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/first-timers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/labeler.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/workflows/ci-lint-examples.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/workflows/ci-lint.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/workflows/ci-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/workflows/twitter-together.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.github/workflows/update-p5jswebsite.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/access.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/benchmarking_p5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/contributing_documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/creating_libraries.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/custom_p5_build.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/design_principles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/discussions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/es/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/es6-adoption.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/friendly_error_system.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/hi/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/hi/unit_testing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/images/method-template-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/images/mobile-draft-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/images/mobile-feature-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/images/mobile-final-proposals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/images/p5-graphics-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/inline_documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/internationalization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/issue_labels.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/benchmarking_p5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/contributing_documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/creating_libraries.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/custom_p5_build.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/design_principles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/discussions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/es6-adoption.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/friendly_error_system.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/inline_documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/internationalization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/issue_labels.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/method.example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/navbar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/organization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/preparing_a_pull_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/release_process.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/roadmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/supported_browsers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/unit_testing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/ko/webgl_mode_architecture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/method.example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/navbar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/organization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/preparing_a_pull_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/DIVYANSHU_RAJ_GSOC_20.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/L05_GSOC_2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/acheng_ogarcia_gsoc_2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/adilrabbani_gsoc_2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/aidannelson_gsoc_2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/akshaypadte_gsoc_2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/ashleykang_gsoc2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/connieliu_gsoc_2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/elginmclaren_gsoc_2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/ghalestrilo_gsoc_2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/inhwayeom_gsoc_2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/jithinks_gsoc_2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/junshern_gsoc_2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/liang_gsoc_2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/luismn_gsoc_2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/orenshoham_gsoc_2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/rachellim_gsoc_2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/sakshamsaxena_gsoc_2017.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/sanket_gsoc_2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/sithencube_gsoc_2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/tanvi_gsoc_2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/urvashi_gsoc_2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/vedhant_gsoc_2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/xu_gsoc_2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/project_wrapups/yukienomiya_gsoc_2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/pt-br/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/release_process.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/roadmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/sk/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/supported_browsers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/unit_testing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/web_accessibility.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/webgl_mode_architecture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/contributor_docs/zh/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/documented-method.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/preprocessor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray_-_Dancing_Tiger_01.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray_-_Dancing_Tiger_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray_01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray_01.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray_02.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Damscray_DancingTiger.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/arnott-wallace-eye-loop-forever.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/arnott-wallace-wink-loop-once.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/beat.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/beat.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/beatbox.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/beatbox.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/blobs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/bricks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/bricks_third.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/bx-spring.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/bx-spring.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/concrete-tunnel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/concrete-tunnel.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/doorbell.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/doorbell.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/drawImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/drum.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/drum.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/fingers.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/fonts/inconsolata.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/fonts/inconsolata.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/fonts/inconsolata.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/fonts/inconsolata.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/fonts/inconsolata.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/gradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/img/p5js.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/inconsolata.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/reference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/reference.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/require.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/vendor/ace-nc/ace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/vendor/ace-nc/mode-javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/vendor/backbone-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/vendor/prism.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/js/vendor/underscore-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/laDefense.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/large-dark-plate.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/large-dark-plate.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/lucky_dragons.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/lucky_dragons.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/mammals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/mammals.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/mask2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/moonwalk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/nancy-liang-wind-loop-forever.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/octahedron.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/rockies.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/rockies128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/shader-gradient.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/shader.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/shader.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/small-plate.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/small-plate.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/small.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/small.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/small.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/studio-b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/studio-b.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/teapot.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/assets/transformation-matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/helpers/helpers_dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/helpers/helpers_prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/docs/yuidoc-p5-theme/layouts/main.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/lib/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/lib/addons/p5.sound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/lib/addons/p5.sound.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/lib/empty-example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/lib/empty-example/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/accessibility/color_namer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/accessibility/describe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/accessibility/gridOutput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/accessibility/outputs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/accessibility/textOutput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/color/color_conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/color/creating_reading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/color/p5.Color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/color/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/environment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/friendly_errors/browser_errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/friendly_errors/fes_core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/friendly_errors/file_errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/friendly_errors/stacktrace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/friendly_errors/validate_params.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/internationalization.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/legacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/p5.Element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/p5.Graphics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/p5.Renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/p5.Renderer2D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/preload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/reference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/rendering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/shape/2d_primitives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/shape/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/shape/curves.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/shape/vertex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/shim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/structure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/core/transform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/data/local_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/data/p5.TypedDict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/dom/dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/events/acceleration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/events/keyboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/events/mouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/events/touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/image/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/image/loading_displaying.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/image/p5.Image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/image/pixels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/io/files.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/io/p5.Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/io/p5.TableRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/io/p5.XML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/math/calculation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/math/math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/math/noise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/math/p5.Vector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/math/random.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/math/trigonometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/typography/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/typography/loading_displaying.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/typography/p5.Font.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/utilities/array_functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/utilities/conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/utilities/string_functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/utilities/time_date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/3d_primitives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/interaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.Geometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.Matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.RenderBuffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.RendererGL.Immediate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.RendererGL.Retained.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.RendererGL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.Shader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/p5.Texture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/basic.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/font.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/font.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/immediate.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/light.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/light_texture.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/lighting.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/line.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/line.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/normal.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/normal.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/phong.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/phong.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/point.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/point.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/vertexColor.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/shaders/vertexColor.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/src/webgl/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/tasks/build/browserify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/tasks/build/combineModules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/tasks/build/eslint-samples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/tasks/test/mocha-chrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/js/chai_helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/js/mocha_setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/js/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/js/p5_helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/js/sinon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/DelayNoiseEnvelope/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/DelayNoiseEnvelope/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/DelaySoundFile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/DelaySoundFile/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/FFT_freqRange/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/FFT_freqRange/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/FFT_frequency_spectrum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/FFT_frequency_spectrum/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/FFT_waveform/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/FFT_waveform/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/FFT_waveform_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/FFT_waveform_2/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Filter_BandPass/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Filter_BandPass/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Filter_LowPass/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Filter_LowPass/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/PulseFFT/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/PulseFFT/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Reverb_basic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Reverb_basic/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Reverb_convolve/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Reverb_convolve/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Reverb_convolve_FFT/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/Reverb_convolve_FFT/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/Damscray_-_Dancing_Tiger_01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/Damscray_-_Dancing_Tiger_01.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/Damscray_-_Dancing_Tiger_02.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/Damscray_-_Dancing_Tiger_02.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/beat.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/beat.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/beatbox.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/beatbox.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/bx-spring.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/bx-spring.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/concrete-tunnel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/concrete-tunnel.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/doorbell.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/doorbell.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/drum.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/drum.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/large-dark-plate.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/large-dark-plate.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/lucky_dragons_-_power_melody.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/lucky_dragons_-_power_melody.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/small-plate.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/small-plate.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/studio-b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/_files/studio-b.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/amplitude_analysis/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/amplitude_analysis/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/autoCorrelation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/autoCorrelation/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/envelope/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/envelope/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/envelopeOnOff/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/envelopeOnOff/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/loadSound_callback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/loadSound_callback/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/loadSound_preload/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/loadSound_preload/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/looper_simple/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/looper_simple/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/micFFT/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/micFFT/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/micLevel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/micLevel/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/micLevel_on_off/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/micLevel_on_off/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/noiseMod_AM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/noiseMod_AM/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillatorMod_AM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillatorMod_AM/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillatorMod_FM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillatorMod_FM/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillatorSecondsFromNow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillatorSecondsFromNow/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillatorWaveform/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillatorWaveform/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillator_FMSynth/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/oscillator_FMSynth/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/outOfPhase/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/outOfPhase/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/pan_soundfile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/pan_soundfile/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/pause_soundfile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/pause_soundfile/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/peakDetect/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/peakDetect/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/peakDetect_basic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/peakDetect_basic/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/play_soundfile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/play_soundfile/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/playbackRate/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/playbackRate/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/record/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/record/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/recordLoops/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/recordLoops/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/soundFormats/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/soundFormats/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/soundfileMod_AM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/soundfileMod_AM/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/soundfile_playMode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/soundfile_playMode/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/waveform/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/waveform/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/waveform_peaks_with_playhead/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/waveform_peaks_with_playhead/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/waveform_with_playhead/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/addons/p5.sound/waveform_with_playhead/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/global/SourceSansPro-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/global/acmesa.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/global/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/global/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/instance/SourceSansPro-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/instance/acmesa.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/instance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/instance/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadFont/instance/test.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadImage/global/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadImage/global/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadImage/global/test.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadImage/instance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadImage/instance/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadImage/instance/test.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadJSON_callback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadJSON_callback/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadJSON_options/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadJSON_options/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadJSON_preload/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadJSON_preload/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadStrings_callback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadStrings_callback/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadStrings_callback/tenderbuttons_excerpt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadStrings_preload/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadStrings_preload/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadStrings_preload/tenderbuttons_excerpt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_callback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_callback/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_callback/table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_options/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_options/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_options/table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_preload/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_preload/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadTable_preload/table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadXML_preload/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadXML_preload/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/async/loadXML_preload/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/audio_button_slider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/audio_button_slider/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/audioelt_onended/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/audioelt_onended/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/brightness_mirror/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/brightness_mirror/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/capture_audio/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/capture_audio/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/capture_video/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/capture_video/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/capture_video_sizing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/capture_video_sizing/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/checkbox_test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/checkbox_test/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/color_picker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/color_picker/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/dropdown_test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/dropdown_test/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/file_input/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/file_input/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/file_input_div/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/file_input_div/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/fingers.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/fingers.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/global/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/global/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/html/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/input_button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/input_button/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/instance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/instance/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/lucky_dragons.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/lucky_dragons.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/radio_test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/radio_test/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/selectbox_test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/selectbox_test/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/slider_button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/slider_button/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/slider_tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/slider_tests/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_button/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_circles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_circles/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_pixels/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_pixels/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_scrub/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_scrub/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_speed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_speed/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_to_canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/dom/video_to_canvas/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/empty-example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/empty-example/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/env/cursor/banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/env/cursor/cursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/env/cursor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case1/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case2/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case3/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case4/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case5/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-global/case6/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case0/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case0/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case1/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case3/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case4/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case5/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/instantiation-instance/case6/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/keyboard/gamestyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/keyboard/gamestyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/keyboard/keyIsPressed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/keyboard/keyIsPressed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp1/example_1_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp1/example_1_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp1/example_1_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp1/example_1_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp1/example_1_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_1/catcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_1/example_10_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_10/catcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_10/drop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_10/example_10_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_10/timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_2/ball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_2/example_10_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_3/ball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_3/example_10_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_4/example_10_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_5/example_10_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_5/timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_6/example_10_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_7/drop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_7/example_10_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_8/example_10_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_9/catcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_9/drop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_9/example_10_9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp10/example_10_9/timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp2/example_2_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp3/example_3_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp3/example_3_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp3/example_3_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp3/example_3_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp3/example_3_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp3/example_3_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/example_4_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/example_4_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/example_4_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/example_4_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/example_4_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/example_4_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/example_4_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/example_4_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/example_5_9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/example_6_9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp7/example_7_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp7/example_7_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp7/example_7_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp7/example_7_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp7/example_7_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp8/example_8_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp8/example_8_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp8/example_8_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/example_9_9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/learningprocessing/chp9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/AvenirNextLTPro-Demi.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/invalid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/invalid_json.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/invalid_json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/loadingscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/mammals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/preload_success_callbacks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/preload_success_callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/loadingscreen/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/module.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/fingers.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/global-mousex-offset/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/global-mousex-offset/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/global-mousex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/global-mousex/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/instance-mousex-css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/instance-mousex-css/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/instance-mousex-offset/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/instance-mousex-offset/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/instance-mousex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/mouse-events/instance-mousex/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/AndaleMono.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/FiraSans-Book.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/Helvetica.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/Inconsolata-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/Lato-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/Merriweather-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/PlayfairDisplay-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/SourceSansPro-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/SourceSansPro-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/SourceSansPro-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/acmesa.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/callback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/callback/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/LEFT.BL.lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/LEFT.BOTTOM.lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/LEFT.CENTER.lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/LEFT.TOP.lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textAlignSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textAlignmentSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textLineSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textOverlapSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textSizeSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textVertAlignmentSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textWidthSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/custom/textWrapSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/opentype/AvenirNextLTPro-Demi.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/opentype/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/opentype/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/pathpoints/boids.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/pathpoints/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/pathpoints/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/renderpath/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/renderpath/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/simple/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/simple/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/style/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/style/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/svgpath/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/svgpath/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/LEFT.BL.lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/LEFT.BOTTOM.lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/LEFT.CENTER.lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/LEFT.TOP.lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/textAlignSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/textAllAlignmentsSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/textLineSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/textOverlapSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/textSizeSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/textSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/textWidthSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/system/textWrapSketch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/textAsWords/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Font/textAsWords/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/GIF/assets/counting-gif@1xLoop-0.2secDelay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/GIF/assets/counting-gif@endlessLoop-1secDelay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/GIF/assets/giphy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/GIF/assets/tricky.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/GIF/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/GIF/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/african-savanna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/animate-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/cat-with-alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/copying-images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/copying.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/cropping-images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/cropping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/drawing-images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/drawing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/filter-images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/loadPixels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/loadPixels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/manipulate-images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/manipulate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/running-cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/saving-images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/saving.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/sprite_sheet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Image/unicorn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Renderer2D/arc/scalingCorrection/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Renderer2D/arc/scalingCorrection/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Renderer2D/arc/startStopWrapping/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Renderer2D/arc/startStopWrapping/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Shape/test0/circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Shape/test0/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Shape/test0/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/findRows/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/findRows/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/getColumn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/getColumn/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/getObject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/getObject/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/matchRow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/matchRow/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/matchRows/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/matchRows/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/removeTokens/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/removeTokens/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/saveTable/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/saveTable/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/trim/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Table/trim/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_2_5_fluidresistance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_2_5_fluidresistance/liquid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_2_5_fluidresistance/mover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_2_5_fluidresistance/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_2_7_attraction_many/attractor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_2_7_attraction_many/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_2_7_attraction_many/mover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_2_7_attraction_many/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_6_09_Flocking/boid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_6_09_Flocking/flock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_6_09_Flocking/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/p5.Vector/NOC_6_09_Flocking/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/pixel/set-pixels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/pixel/set-pixels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/pixel/unicorn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/pixel/update-pixels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/pixel/update-pixels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/saveData/saveJSONArray/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/saveData/saveJSONArray/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/saveData/saveJSONObject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/saveData/saveJSONObject/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/saveData/saveStrings/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/saveData/saveStrings/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tint/flowers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tint/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tint/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/0/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/0/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/1/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/2/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/3/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/4/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/6/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/7/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/8/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/dom_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/dom_2-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/dom_2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/dom_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/DOM-extensions/dom_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/0/buzz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/0/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/0/rhodes_loop.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/0/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/1/buzz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/1/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/1/rhodes_loop.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/1/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/2/buzz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/2/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/2/rhodes_loop.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/tutorials/Integrating-other-libraries/2/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/arc/scalingCorrection/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/arc/scalingCorrection/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/arc/startStopWrapping/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/arc/startStopWrapping/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/assets/UV_Grid_Sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/assets/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/assets/model-bin.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/assets/teapot-ascii.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/blendMode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/blendMode/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/camera/cameraViews/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/camera/cameraViews/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/camera/frustum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/camera/frustum/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/camera/setattributes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/camera/setattributes/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/curves/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/curves/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/customShader/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/customShader/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/customShader/toonShader/frag.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/customShader/toonShader/vert.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/customShader/videoMultiTextureShader/frag.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/customShader/videoMultiTextureShader/vert.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/debugMode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/debugMode/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/geometryImmediate/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/geometryImmediate/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/geometryLit/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/geometryLit/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/geometryLoading/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/geometryLoading/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/geometryUnlit/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/geometryUnlit/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/get/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/get/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/performance/points/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/performance/points/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/performance/spheres/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/performance/spheres/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/performance/triangles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/performance/triangles/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/stats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/text/chinese/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/text/chinese/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/text/multiple/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/text/multiple/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/multipleTextures/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/multipleTextures/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/textureFilter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/textureFilter/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/textureMode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/textureMode/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/textureWrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/textureWrap/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/transparentTexture/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/transparentTexture/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/videoTexture/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/manual-test-examples/webgl/texture/videoTexture/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/mocha.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/node/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/node/test-docs-preprocessor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/reporter/simple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/test-minified.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/test-reference.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/accessibility/describe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/accessibility/outputs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/acmesa.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/array.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/ascii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/ascii.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/beat.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/empty_lines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/frag.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/nyan_cat.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/object.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/sentences.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/target.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/target_small.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/teapot.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/assets/vert.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/color/color_conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/color/creating_reading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/color/p5.Color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/color/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/2d_primitives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/curves.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/environment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/error_helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/p5.Element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/p5.Graphics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/preload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/rendering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/structure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/transform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/core/vertex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/data/local_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/data/p5.TypedDict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/dom/dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/events/acceleration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/events/keyboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/events/mouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/events/touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/image/downloading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/image/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/image/loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/image/p5.Image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/image/pixels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/files.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/loadBytes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/loadImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/loadJSON.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/loadModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/loadShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/loadStrings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/loadTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/loadXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/io/saveTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/math/calculation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/math/noise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/math/p5.Vector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/math/random.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/math/trigonometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/typography/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/typography/loadFont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/typography/p5.Font.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/utilities/array_functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/utilities/conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/utilities/string_functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/utilities/time_date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/webgl/3d_primitives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/webgl/interaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/webgl/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/webgl/p5.Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/webgl/p5.Matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/webgl/p5.RendererGL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/webgl/p5.Shader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/test/unit/webgl/p5.Texture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/translations/dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/translations/en/translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/translations/es/translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/translations/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/tweets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/tweets/first-test.tweet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.js-main/utils/sample-linter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/p5.sound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/quicksettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,20 +1029,42 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1iEKwS68RDvLVm9iBPMqV7AK9hf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node.exe" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+>>>>>>> Stashed changes
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="myScript.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/myScript.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.myScript.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -39,25 +1079,62 @@
       <updated>1601467552956</updated>
       <workItem from="1601467554741" duration="1518000" />
       <workItem from="1601546097378" duration="142000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1601547576560" duration="7183000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+>>>>>>> Stashed changes
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601546118333">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601553387542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601546118333" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601553387542" />
     <state x="593" y="332" key="Github.CreateGistDialog" timestamp="1601540397571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="593" y="332" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1601540397571" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1601546239465">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1601553412807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601546239465" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601553412807" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1601553412807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601553412807" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1601553412807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601553412807" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1601553412807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601553412807" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1601553392418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601553392418" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1601540565102">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
