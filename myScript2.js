@@ -6,7 +6,7 @@ function setup(){
     createCanvas(1600, 800);
 
     gui = createGui();
-    slider = createSlider(0, 200);
+    slider = createSlider(0, 400);
     slider.position(10,10);
     slider.style('width', '160px');
     val = s
@@ -19,5 +19,7 @@ function draw() {
 }
 
 function touchMoved(){
-    if ()
+    if (slider.value() == 50){
+        return false;
+    }
 }
