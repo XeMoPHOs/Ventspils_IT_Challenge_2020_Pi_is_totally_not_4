@@ -1,16 +1,15 @@
 let gui;
-let s;
 let slider;
-let val;
 let temp;
+
 function setup(){
-    createCanvas(400, 400);
+    createCanvas(1600, 800);
 
     gui = createGui();
-    slider = createSlider(100, 300);
+    slider = createSlider(0, 200);
     slider.position(10,10);
-    slider.style('width', '80px');
-    val = slider.value();
+    slider.style('width', '160px');
+    val = s
 }
 
 function draw() {
@@ -20,5 +19,5 @@ function draw() {
 }
 
 function touchMoved(){
-    return false;
+    if ()
 }
