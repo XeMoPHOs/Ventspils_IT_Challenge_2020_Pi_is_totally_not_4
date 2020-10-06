@@ -2,7 +2,6 @@ let gui;
 let s_CO2;
 let s_time;
 let temp;
-let CO2;
 const CO2_2020 = 410;
 const CO2_per_month = 0.18;
 
@@ -24,11 +23,11 @@ function setup(){
 function draw() {
     background(220);
     fill(255, 0, 0);
-    ellipse(s_CO2.value(), CO2, 100);
+    ellipse(s_CO2.value(), CO2(), 100);
 }
 
 function CO2() {
-    return(s_time.value()*CO2_per_month);
-}
+    return(s_time.value())
+};
 
 
