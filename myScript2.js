@@ -24,11 +24,11 @@ function setup(){
 function draw() {
     background(220);
     fill(255, 0, 0);
-    ellipse(s_CO2.value(), 300, 100);
+    ellipse(s_CO2.value(), CO2, 100);
 }
 
-function temperature() {
-    temp = s_time.value()*CO2_per_month;
+function CO2() {
+    return(s_time.value()*CO2_per_month);
 }
 
 
