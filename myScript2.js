@@ -2,6 +2,7 @@ let gui;
 let s;
 let slider;
 let val;
+let temp;
 function setup(){
     createCanvas(400, 400);
 
