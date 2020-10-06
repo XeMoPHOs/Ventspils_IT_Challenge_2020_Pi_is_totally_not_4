@@ -14,11 +14,8 @@ function setup(){
 
 function draw() {
     background(220);
-    if(slider.isChanged) {
-        print(slider.label + " " + val)
-    }
     fill(255, 0, 0);
-    ellipse(val, 300, 100);
+    ellipse(slider.value(), 300, 100);
 }
 
 function touchMoved(){
