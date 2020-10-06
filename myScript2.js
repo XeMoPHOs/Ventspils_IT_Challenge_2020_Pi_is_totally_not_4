@@ -1,22 +1,24 @@
 let gui;
 let s;
-
-
+let slider;
+let val;
 function setup(){
     createCanvas(400, 400);
 
     gui = createGui();
-    s = createSlider("Slxider", 50, 50, 300, 32, 100, 300);
-
+    slider = createSlider(100, 300);
+    slider.position(10,10);
+    slider.style('width', '80px');
+    val = slider.value();
 }
 
 function draw() {
     background(220);
-    if(s.isChanged) {
-        print(s.label + " " + s.val)
+    if(slider.isChanged) {
+        print(slider.label + " " + val)
     }
     fill(255, 0, 0);
-    ellipse(s.val+1, 300, 100);
+    ellipse(val, 300, 100);
 }
 
 function touchMoved(){
