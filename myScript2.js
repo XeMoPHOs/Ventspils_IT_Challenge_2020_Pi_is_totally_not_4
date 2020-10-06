@@ -17,7 +17,7 @@ function setup(){
     s_time = createSlider(0, 240);
     s_time.position(10,30);
     s_time.style('width', '160px');
-    s_CO2.value() = 200;
+    s_CO2.value(200);
     s_CO2.value(200);
     s_time.value(0);
 }
