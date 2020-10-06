@@ -18,8 +18,9 @@ function setup(){
     s_time.position(10,30);
     s_time.style('width', '160px');
     s_CO2.value() = 200;
+    s_CO2.value(200);
+    s_time.value(0);
 }
-
 function draw() {
     background(220);
     fill(255, 0, 0);
