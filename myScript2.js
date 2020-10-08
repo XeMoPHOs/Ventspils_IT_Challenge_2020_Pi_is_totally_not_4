@@ -2,7 +2,7 @@ let gui;
 let s_CO2;
 let s_time;
 let temp;
-const CO2_2020 = 410;
+//const CO2_2020 = 410;
 const CO2_per_month = 0.18;
 
 function setup(){
@@ -25,9 +25,14 @@ function draw() {
     fill(255, 0, 0);
     ellipse(s_CO2.value(), CO2(), 100);
 }
-
+function myFunction(){
+    document.getElementById("Slider1").style.display = s_CO2.value();
+}
+function myFunction(){
+    document.getElementById("Slider2").style.display = CO2();
+}
 function CO2() {
     return(s_time.value())
-};
+}
 
 
