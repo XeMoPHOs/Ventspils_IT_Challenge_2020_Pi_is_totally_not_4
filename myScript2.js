@@ -23,7 +23,7 @@ function setup(){
 function draw() {
     background(220);
     fill(255, 0, 0);
-    ellipse(s_CO2.value(), CO2(), 100);
+    ellipse(CO2(), 100, 100);
 }
 function CO2_emissions(){
     document.getElementById("Slider1").style.display = s_CO2.value() / 200;
@@ -32,7 +32,7 @@ function CO2_amount(){
     document.getElementById("Slider2").style.display = CO2();
 }
 function CO2() {
-    return(s_time.value()*CO2_per_month*s_CO2.value())
+    return(s_time.value()*CO2_per_month*s_CO2.value()/200)
 }
 
 
