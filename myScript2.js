@@ -25,10 +25,10 @@ function draw() {
     fill(255, 0, 0);
     ellipse(s_CO2.value(), CO2(), 100);
 }
-function myFunction(){
-    document.getElementById("Slider1").style.display = s_CO2.value();
+function CO2_emissions(){
+    document.getElementById("Slider1").style.display = s_CO2.value() / 200;
 }
-function myFunction(){
+function CO2_amount(){
     document.getElementById("Slider2").style.display = CO2();
 }
 function CO2() {
