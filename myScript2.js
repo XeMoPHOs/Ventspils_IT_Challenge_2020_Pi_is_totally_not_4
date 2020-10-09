@@ -2,7 +2,7 @@ let gui;
 let s_CO2;
 let s_time;
 let temp;
-//const CO2_2020 = 410;
+const CO2_2020 = 410;
 const CO2_per_month = 0.18;
 
 function setup(){
@@ -32,7 +32,7 @@ function myFunction(){
     document.getElementById("Slider2").style.display = CO2();
 }
 function CO2() {
-    return(s_time.value())
+    return(s_time.value()*CO2_per_month*s_CO2.value())
 }
 
 
