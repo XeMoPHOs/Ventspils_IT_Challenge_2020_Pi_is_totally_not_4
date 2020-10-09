@@ -26,13 +26,16 @@ function draw() {
     ellipse(CO2(), 100, 100);
 }
 function CO2_emissions(){
-    document.getElementById("Slider1").style.display = s_CO2.value() / 200;
+    document.getElementById("Slider1").innerHTML = s_CO2.value() / 200;
 }
 function CO2_amount(){
-    document.getElementById("Slider2").style.display = CO2();
+    document.getElementById("Slider2").innerHTML = CO2() + CO2_2020;
 }
 function CO2() {
     return(s_time.value()*CO2_per_month*s_CO2.value()/200)
+}
+function myFunction() {
+    document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
 
 
