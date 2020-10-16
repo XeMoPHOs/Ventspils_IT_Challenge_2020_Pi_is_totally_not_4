@@ -24,10 +24,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a0f856b-6fc6-400f-be29-ac9cf23bfa32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myScript2.js" beforeDir="false" afterPath="$PROJECT_DIR$/myScript2.js" afterDir="false" />
-    </list>
+    <list default="true" id="2a0f856b-6fc6-400f-be29-ac9cf23bfa32" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602244751126</updated>
       <workItem from="1602244759111" duration="8116000" />
-      <workItem from="1602851565371" duration="3178000" />
+      <workItem from="1602851565371" duration="3804000" />
     </task>
     <task id="LOCAL-00001" summary="18">
       <created>1602252126882</created>
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602255746587</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pls make numbers">
+      <created>1602856451433</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602856451433</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +108,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18" />
     <MESSAGE value="fix slider pls" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix slider pls" />
+    <MESSAGE value="pls make numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="pls make numbers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1602245767006">
