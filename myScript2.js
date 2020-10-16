@@ -5,6 +5,7 @@ var temp;
 const CO2_2020 = 410;
 const CO2_per_month = 0.18;
 const temp_2020 = 13.86;
+const temp_per_ppm = 0.000926;
 
 function setup(){
     createCanvas(1600, 800);
@@ -32,7 +33,9 @@ function CO2(){
     return(s_time.value()*CO2_per_month*s_CO2.value()/200);
 }
 function Temp(){
-    return(temp_2020+CO2_per_month*s_time.value()+s_time.value()*(CO2_per_month/CO2_2020)*CO2())
+    let temp_cg = temp_per_ppm*CO2_per_month*s_time.value();
+    let temp_eg = temp_per_ppm*(CO2_per_month/CO2_2020)*CO2();
+    return(temp_2020+temp_cg+temp_eg);
 }
 
 /*function myFunction() {
